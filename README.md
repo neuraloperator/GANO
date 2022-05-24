@@ -1,5 +1,5 @@
 # GANO
-This package provide impelimentation codes developed in the exprimental study presented in
+This package provide implementation codes developed in the experimental study presented in
 
 Generative Adversarial Neural Operators.
 
