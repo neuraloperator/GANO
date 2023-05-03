@@ -15,6 +15,8 @@ https://drive.google.com/file/d/1WgEOpawpyV_1lf80zpkz47VNtVqHR3ZK/view?usp=shari
 Please also find U-NO code and colab here,
 
 Code: https://github.com/ashiq24/UNO
+or
+Code: https://github.com/neuraloperator/neuraloperator/blob/main/neuralop/models/uno.py
 
 Colab: https://colab.research.google.com/drive/1f1WYsjAgIjJRFtfQYYnZCZsxl602MMPX?usp=sharing
 
